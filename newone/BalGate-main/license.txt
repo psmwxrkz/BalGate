@@ -1,0 +1,12 @@
+Este software foi desenvolvido pela Baltech Solutions para uso interno da TEG TEAG.
+
+É proibida a distribuição, cópia, engenharia reversa ou modificação deste software sem autorização formal da Baltech Solutions.
+
+Ao instalar este sistema, você concorda que:
+
+1. O software deve ser utilizado exclusivamente para fins operacionais internos.
+2. Não é permitido alterar ou manipular o executável ou qualquer arquivo associado.
+3. A Baltech Solutions não se responsabiliza por danos decorrentes de uso indevido.
+4. A TEG TEAG é responsável por manter o ambiente adequado para execução do sistema.
+
+Continuar implica sua concordância com estes termos.
